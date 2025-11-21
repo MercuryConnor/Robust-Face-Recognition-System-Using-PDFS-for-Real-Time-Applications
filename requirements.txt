@@ -1,0 +1,21 @@
+# Add required Python packages here
+torch>=2.0
+torchvision
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+opencv-python
+tqdm
+faiss-cpu
+tensorboard
+onnx
+onnxruntime
+torchvision
+pyyaml
+seaborn
+skorch
+transformers  # optional
+pynvrtc       # optional for TensorRT workflows
+# Add required Python packages here

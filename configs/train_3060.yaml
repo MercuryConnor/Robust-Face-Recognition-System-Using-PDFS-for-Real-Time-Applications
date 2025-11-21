@@ -1,0 +1,8 @@
+# Sample training config for local GPU (RTX 3060)
+data_root: data/processed
+epochs: 5
+batch_size: 64
+lr: 0.01
+embedding_size: 512
+image_size: 112
+out_checkpoint: models/checkpoints/best.pth

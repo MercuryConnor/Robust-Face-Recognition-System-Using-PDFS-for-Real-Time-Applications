@@ -1,0 +1,8 @@
+# Minimal example config for PDFS training
+data_root: data/processed
+epochs: 3
+batch_size: 32
+lr: 0.01
+embedding_size: 512
+image_size: 112
+out_checkpoint: models/checkpoints/latest.pth
